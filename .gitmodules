@@ -1,0 +1,6 @@
+[submodule "clothes-reseller-core-api"]
+	path = clothes-reseller-core-api
+	url = https://github.com/alva1612/clothes-reseller-core-api.git
+[submodule "clothes-reseller-market"]
+	path = clothes-reseller-market
+	url = https://github.com/alva1612/clothes-reseller-market.git
